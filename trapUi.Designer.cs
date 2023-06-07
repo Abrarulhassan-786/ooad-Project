@@ -1,0 +1,199 @@
+﻿namespace TMSooad
+{
+    partial class trapUi
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(trapUi));
+            this.label1 = new System.Windows.Forms.Label();
+            this.leb1 = new System.Windows.Forms.Label();
+            this.leb2 = new System.Windows.Forms.Label();
+            this.leb3 = new System.Windows.Forms.Label();
+            this.leb4 = new System.Windows.Forms.Label();
+            this.leb5 = new System.Windows.Forms.Label();
+            this.leb6 = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.SkyBlue;
+            this.label1.Font = new System.Drawing.Font("Microsoft YaHei UI", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(287, 71);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(233, 28);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Trap When Traveling";
+            // 
+            // leb1
+            // 
+            this.leb1.AutoSize = true;
+            this.leb1.BackColor = System.Drawing.Color.DodgerBlue;
+            this.leb1.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.leb1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.leb1.Location = new System.Drawing.Point(174, 122);
+            this.leb1.Name = "leb1";
+            this.leb1.Size = new System.Drawing.Size(52, 20);
+            this.leb1.TabIndex = 1;
+            this.leb1.Text = "trap 1";
+            // 
+            // leb2
+            // 
+            this.leb2.AutoSize = true;
+            this.leb2.BackColor = System.Drawing.Color.DodgerBlue;
+            this.leb2.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.leb2.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.leb2.Location = new System.Drawing.Point(588, 121);
+            this.leb2.Name = "leb2";
+            this.leb2.Size = new System.Drawing.Size(52, 20);
+            this.leb2.TabIndex = 2;
+            this.leb2.Text = "trap 2";
+            // 
+            // leb3
+            // 
+            this.leb3.AutoSize = true;
+            this.leb3.BackColor = System.Drawing.Color.DodgerBlue;
+            this.leb3.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.leb3.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.leb3.Location = new System.Drawing.Point(588, 298);
+            this.leb3.Name = "leb3";
+            this.leb3.Size = new System.Drawing.Size(52, 20);
+            this.leb3.TabIndex = 3;
+            this.leb3.Text = "trap 3";
+            // 
+            // leb4
+            // 
+            this.leb4.AutoSize = true;
+            this.leb4.BackColor = System.Drawing.Color.DodgerBlue;
+            this.leb4.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.leb4.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.leb4.Location = new System.Drawing.Point(174, 222);
+            this.leb4.Name = "leb4";
+            this.leb4.Size = new System.Drawing.Size(52, 20);
+            this.leb4.TabIndex = 4;
+            this.leb4.Text = "trap 4";
+            // 
+            // leb5
+            // 
+            this.leb5.AutoSize = true;
+            this.leb5.BackColor = System.Drawing.Color.DodgerBlue;
+            this.leb5.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.leb5.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.leb5.Location = new System.Drawing.Point(588, 211);
+            this.leb5.Name = "leb5";
+            this.leb5.Size = new System.Drawing.Size(52, 20);
+            this.leb5.TabIndex = 5;
+            this.leb5.Text = "trap 5";
+            // 
+            // leb6
+            // 
+            this.leb6.AutoSize = true;
+            this.leb6.BackColor = System.Drawing.Color.DodgerBlue;
+            this.leb6.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.leb6.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.leb6.Location = new System.Drawing.Point(174, 299);
+            this.leb6.Name = "leb6";
+            this.leb6.Size = new System.Drawing.Size(52, 20);
+            this.leb6.TabIndex = 6;
+            this.leb6.Text = "trap 6";
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.SkyBlue;
+            this.button1.Font = new System.Drawing.Font("Microsoft YaHei", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Location = new System.Drawing.Point(173, 381);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(140, 49);
+            this.button1.TabIndex = 7;
+            this.button1.Text = "Show Trap Tips";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.SkyBlue;
+            this.button2.Font = new System.Drawing.Font("Microsoft YaHei UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Location = new System.Drawing.Point(3, 2);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(186, 34);
+            this.button2.TabIndex = 8;
+            this.button2.Text = "Back to Main Page";
+            this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.SkyBlue;
+            this.button3.Font = new System.Drawing.Font("Microsoft YaHei", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.Location = new System.Drawing.Point(546, 381);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(140, 49);
+            this.button3.TabIndex = 9;
+            this.button3.Text = "Vehicals";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // trapUi
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
+            this.ClientSize = new System.Drawing.Size(971, 477);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.leb6);
+            this.Controls.Add(this.leb5);
+            this.Controls.Add(this.leb4);
+            this.Controls.Add(this.leb3);
+            this.Controls.Add(this.leb2);
+            this.Controls.Add(this.leb1);
+            this.Controls.Add(this.label1);
+            this.Name = "trapUi";
+            this.Text = "trapUi";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label leb1;
+        private System.Windows.Forms.Label leb2;
+        private System.Windows.Forms.Label leb3;
+        private System.Windows.Forms.Label leb4;
+        private System.Windows.Forms.Label leb5;
+        private System.Windows.Forms.Label leb6;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+    }
+}
